@@ -79,7 +79,7 @@ class MyWebServer(socketserver.BaseRequestHandler):
 
                 # open the path requested and read the contents
                 path_to_open = www_dir + url
-                get_file = open(path_to_open)
+                get_file = open(path_to_open, "r")
                 content = get_file.read()
                 get_file.close()
 
