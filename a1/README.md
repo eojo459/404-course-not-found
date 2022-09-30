@@ -7,6 +7,19 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a simple webserver.
 
+
+Collaboration
+========================
+Emmanuel Ojo (eoojo)
+
+
+Sources
+========================
+- https://www.w3schools.com/python/ref_func_open.asp
+- https://docs.python.org/3/library/os.html
+- https://www.tutorialspoint.com/python/string_decode.htm
+
+
 Contributors / Licensing
 ========================
 
