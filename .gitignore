@@ -1,1 +1,5 @@
 .DS_Store
+lab04/mysite/__pycache__/urls.cpython-39.pyc
+lab04/polls/__pycache__/__init__.cpython-39.pyc
+lab04/polls/__pycache__/urls.cpython-39.pyc
+lab04/polls/__pycache__/views.cpython-39.pyc
